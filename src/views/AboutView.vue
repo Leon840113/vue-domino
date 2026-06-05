@@ -1,7 +1,8 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <main class="about">
+    <h1>關於 Vue Domino</h1>
+    <p>以 Vue 3 + Vite 打造的骨牌遊戲專案。</p>
+  </main>
 </template>
 
 <style>
